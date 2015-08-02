@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="banner.svg"
-   inkscape:export-filename="/home/lee/Dropbox/banner.png"
+   inkscape:export-filename="/home/lee/banner.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,18 +28,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="223.71435"
-     inkscape:cy="49.533151"
+     inkscape:cx="137.08268"
+     inkscape:cy="29.3301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="960"
-     inkscape:window-x="-3"
-     inkscape:window-y="41"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="1277"
+     inkscape:window-y="38"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -51,7 +51,7 @@
        id="guide3767" />
     <sodipodi:guide
        orientation="0,1"
-       position="208.5965,7.5761441"
+       position="243.44676,8.5862966"
        id="guide3769" />
   </sodipodi:namedview>
   <metadata
@@ -86,20 +86,20 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-weight:normal;line-height:122.00000286%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="36.42857"
-       y="1042.3623"
+       x="30.87273"
+       y="1043.7759"
        id="text2989"
        sodipodi:linespacing="122%"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="36.42857"
-         y="1042.3623"
-         style="font-size:11px;fill:#5e5e5e;fill-opacity:1">По пути создания общего блага</tspan></text>
+         x="30.87273"
+         y="1043.7759"
+         style="font-size:11px;fill:#5e5e5e;fill-opacity:1">По пути развития и процветания</tspan></text>
     <g
        id="g3794">
       <path
          transform="matrix(0.82022473,0,0,0.82022473,40.814703,996.13625)"
-         d="m 294.45948,35.605328 a 22.475895,22.475895 0 1 1 -44.95179,0 22.475895,22.475895 0 1 1 44.95179,0 z"
+         d="m 294.45948,35.605328 c 0,12.413094 -10.0628,22.475895 -22.4759,22.475895 -12.41309,0 -22.47589,-10.062801 -22.47589,-22.475895 0,-12.413094 10.0628,-22.475895 22.47589,-22.475895 12.4131,0 22.4759,10.062801 22.4759,22.475895 z"
          sodipodi:ry="22.475895"
          sodipodi:rx="22.475895"
          sodipodi:cy="35.605328"
